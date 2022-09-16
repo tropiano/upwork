@@ -1,0 +1,442 @@
+,name,streetAddress,postalCode,addressLocality,telephone,faxNumber,url,email
+0,Kreisverband Bad Doberan e.V.,Seestr. 12,18209, Bad Doberan,038203 7501 0,038203 7501 20,http://www.drk-dbr.de,info@drk-dbr.de
+1,Kreisverband Bad Dürkheim e.V.,Sägmühle 3,67098, Bad Dürkheim,06322 9446 0,06322 9446 11,http://www.kv-duew.drk.de,info@kv-duew.drk.de
+2,Kreisverband Bad Kissingen,Landwehrstr. 3,97688, Bad Kissingen,0971 7272 0,0971 7272 170,http://www.kvbad-kissingen.brk.de,info@kvbad-kissingen.brk.de
+3,Kreisverband Bad Kreuznach e.V.,Rüdesheimer Str. 36 - 38,55545, Bad Kreuznach,0671 84444 0,0671 84444 310,http://www.drk-kreuznach.de,kreisverband@drk-kh.de
+4,Kreisverband Bad Langensalza e.V.,Gothaer Landstr. 15,99947, Bad Langensalza,03603 842428,03603 891718,http://www.drk-bad-langensalza.de/,info@drk-bad-langensalza.de
+5,Kreisverband Bad Mergentheim e.V.,Rotkreuz-Str. 31,97980, Bad Mergentheim,07931 48290 0,07931 48290 20,http://www.drk-bad-mergentheim.de,info@kv-bad-mergentheim.drk.de
+6,Kreisverband Bad Salzungen e.V.,Hersfelder Str. 1,36433, Bad Salzungen,03695 8762 0,03695 8762 12,http://www.drk-badsalzungen.de,info@drk-badsalzungen.de
+7,Kreisverband Bad Tölz-Wolfratshausen,Schützenstr. 7,83646, Bad Tölz,08041 7655 0,08041 7655 24,http://www.kvtoel.brk.de,info@kvtoel.brk.de
+8,Kreisverband Bad Wildungen e.V.,Königsquellenweg 2 a,34537, Bad Wildungen,05621 7892 0,05621 7892 19,http://www.drk-wildungen.de/,service@drk-wildungen.de
+9,Kreisverband Baden-Baden e.V.,Schweigrother Str. 8,76532, Baden-Baden,07221 9189 0,07221 9189 50,http://www.drk-baden-baden.de,c.huck@drk-baden-baden.de
+10,Kreisverband Bamberg,Hainstr. 19,96047, Bamberg,0951 98189 0,0951 98189 20,http://www.kvbamberg.brk.de,info@kvbamberg.brk.de
+11,Kreisverband Bautzen e.V.,Wallstr. 5,02625, Bautzen,03591 6737 0,03591 673730,http://www.drk-bautzen.de/,info@drk-bautzen.de
+12,Kreisverband Bayreuth,Hindenburgstr. 10,95445, Bayreuth,0921 403 0,0921 403 419,https://www.brk-bayreuth.de,info@brk-bayreuth.de
+13,Kreisverband Berchtesgadener Land,Riedelstr. 18,83435, Bad Reichenhall,08651 9590 0,08651 9590 50,http://www.brk-bgl.de,info@kvbgl.brk.de
+14,Kreisverband Bergstraße e.V.,Boschstraße 1,64646, Heppenheim,06252 7004 0,06252 7004 25,http://www.drk-bergstrasse.de/,info@drk-bergstrasse.de
+15,Kreisverband Berlin Schöneberg-Wilmersdorf e.V.,Kranzer Str. 6 - 7,14199, Berlin,030 2332 19 61 0,030 2332 19 61 65,http://www.drk-schoeneberg.de/,info@drk-wilmersdorf.de
+16,Kreisverband Berlin Steglitz-Zehlendorf e.V.,Düppelstraße 36,12163, Berlin,030 7930239 0,030 7930239 11,http://www.drk-sz.de,info@drk-sz.de
+17,Kreisverband Berlin-Nordost e.V.,Sella-Hasse-Straße 19-21,12687, Berlin,030 992739 70,030 9927397 18,http://drk-berlin-nordost.de/startseite.html,sekretariat@drk-berlin-nordost.de
+18,Kreisverband Berlin-Zentrum e.V.,Herbartstraße 25,14057, Berlin,030 6003005100,,https://www.drk-berlin-zentrum.de/,info@drk-berlin-zentrum.de
+19,Kreisverband Bernburg im Salzlandkreis e. V,Semmelweisstr. 27/28,06391, Bernburg,03471 3270,03471 327150,http://www.drk-bernburg-slk.de,info@drk-bernburg-slk.de
+20,Kreisverband Bernkastel-Wittlich e.V.,Kurfürstenstr. 7 a,54516, Wittlich,06571 6977 0,06571 697769,http://www.kv-bks-wil.drk.de,info@kv-bks-wil.drk.de
+21,Kreisverband Biberach e.V.,Rot-Kreuz-Weg 27,88400, Biberach,07351 1570 0,07351 1570 30,http://www.drk-bc.de,info@drk-bc.de
+22,Kreisverband Biedenkopf e.V.,Hainstr. 77,35216, Biedenkopf,06461 77-0,06461 77-377,https://www.drk-biedenkopf.de,info@drk-biedenkopf.de
+23,Kreisverband Bielefeld e.V.,August-Bebel-Str. 8,33602, Bielefeld,0521 52998 0,0521 52998 52,https://www.drk-bielefeld.de/,info@drk-bielefeld.de
+24,Kreisverband Birkenfeld e.V.,Schönlautenbach 17,55743, Idar-Oberstein,06781 50600,06781 5060 60,http://www.kv-birkenfeld.drk.de/,info@drk-kv-birkenfeld.de
+25,Kreisverband Bitburg-Prüm e.V.,Rot-Kreuz-Straße 1,54634, Bitburg,06561 6020 0,06561 6020 19,http://www.drk-bitburg-pruem.de/,info@drk-bitburg-pruem.de
+26,Kreisverband Bitterfeld-Zerbst / Anhalt e.V.,Mittelstr. 31 a,06749, Bitterfeld-Wolfen,03493 37620,03493 376220,https://www.drk-bitterfeld.org/,drk@drk-bitterfeld.org
+27,Kreisverband Böblingen e.V.,Umberto-Nobile-Straße 10,71063, Sindelfingen,07031 6904 0,07031 6904 281,http://www.drkbb.org,info@drkbb.org
+28,Kreisverband Bochum e.V.,An der Holtbrügge 8,44795, Bochum,0234 9445 0,0234 9445160,http://www.drk-bochum.de,info@drk-bochum.de
+29,Kreisverband Bodenseekreis e.V.,Rotkreuzstr. 2,88046, Friedrichshafen,49 7541 504 0,49 7541 504 105,http://www.drk-kv-bodenseekreis.de/,info@drk-kv-bodenseekreis.de
+30,Kreisverband Bonn e.V.,Endenicher Str. 131,53115, Bonn,0228 9831 0,0228 9831 21,https://www.drk-bonn.de,info@drk-bonn.de
+31,Kreisverband Börde e.V.,Maschenpromenade 22,39340, Haldensleben,0 3904  72507 0,0 3904  72507 20,http://www.drk-boerde.de,drk@drk-boerde.de
+32,Kreisverband Borken e.V.,Röntgenstr. 6,46325, Borken,02861 8029 0,02861 8029 115,http://www.drkborken.de,info@drkborken.de
+33,Kreisverband Bottrop e.V.,Siemensstr. 32,46238, Bottrop,02041 7373 0,02041 73 73 610,https://www.drk-bottrop.de,Info@drk-bottrop.de
+34,Kreisverband Brandenburg an der Havel e.V.,Grüne Aue 6,14776, Brandenburg,03381 6306 0,03381 6306 23,http://www.drk-brandenburg-havel.de,info@drk-brandenburg-havel.de
+35,Kreisverband Braunschweig-Salzgitter e.V.,Adolfstraße 20,38102, Braunschweig,0531   22031 0,0531   22031 33,https://www.drk-kv-bs-sz.de/,info@drkbssz.de
+36,Kreisverband Bremen e.V.,Wachmannstr. 9,28209, Bremen,0421  34 03  0,0421  34 03  135,http://www.drk-bremen.de,info@drk-bremen.de
+37,Kreisverband Bremerhaven e.V.,Borriesstraße 37,27570, Bremerhaven,0471 309404 0,0471 309404 44,http://www.drk-bremerhaven.de,info@drk-bremerhaven.de
+38,Kreisverband Bremervörde e.V.,Großer Platz 12,27432, Bremervörde,04761 99370,04761 993722,http://www.drk-bremervoerde.de,info@drk-bremervoerde.de
+39,Kreisverband Brilon e.V.,Freiladestraße 3,59929, Brilon,02961 9655 0,02961 9655 28,http://www.drk-brilon.de,kontakt@drk-brilon.de
+40,Kreisverband Buchen e.V.,Henry-Dunant-Str. 1,74722, Buchen,06281 5222 0,06281 5222 20,http://www.drk-buchen.de/,info@drk-buchen.de
+41,Kreisverband Büdingen e.V.,Vogelsbergstr. 94,63654, Büdingen,06042 8806 0,06042 8806 66,http://www.drk-buedingen.de,info@drk-buedingen.de
+42,Kreisverband Bühl-Achern e.V.,Rotkreuzstrasse 1,77815, Bühl,07223 9877 0,07223 9877 512,http://www.drk-buehl-achern.de/startseite.html,info@drk-buehl-achern.de
+43,Kreisverband Calau e.V.,Am Friedhof 4,03205, Calau,03541 8956 0,03541 8956 21,http://www.drk-calau.de,DRK_Calau@t-online.de
+44,Kreisverband Calw e.V.,Rudolf-Diesel-Straße 15,75365, Calw,07051 7009 0,07051 7009 999,https://www.drk-kv-calw.de,info@drk-kv-calw.de
+45,Kreisverband Celle e.V.,77er Straße 45 A,29221, Celle,0514190320,,https://www.drkcelle.de,info@drkcelle.de
+46,Kreisverband Cham,Further Straße 10,93413, Cham,09971 8500 0,09971 85008810,http://www.kvcham.brk.de/,info@kvcham.brk.de
+47,Kreisverband Chemnitz e.V.,Altchemnitzer Str. 26,09120, Chemnitz,0371 700 80 00,0371 700 80 149,http://www.drkchemnitz.de,info@drkchemnitz.de
+48,Kreisverband Cloppenburg e.V.,Hofkamp 2,49661, Cloppenburg,04471 9110 0,04471 9110 34,http://www.drk-cloppenburg.de,info@drk-cloppenburg.de
+49,Kreisverband Coburg,Garden-City-Straße 14,96450, Coburg,09561 8089 0,09561 8089 16,http://www.brk-coburg.de,info@kvcoburg.brk.de
+50,Kreisverband Cochem-Zell e.V.,Ravenestr. 15,56812, Cochem,02671 91411 0,02671 91411 30,http://www.kvcoc-drk.de,info@kvcoc-drk.de
+51,Kreisverband Coesfeld e.V.,Bahnhofstr. 128,48653, Coesfeld,02541 9442 1000,02541 9442 1099,http://www.drk-coe.de,kgst@drk-coe.de
+52,Kreisverband Cottbus-Spree-Neiße-West e.V.,Ostrower Damm 2,03046, Cottbus,0355 22225,0355 22227,http://www.drk-cottbus.de,info@drk-cottbus.de
+53,Kreisverband Cuxhaven e.V.,Meyerstr. 49,27472, Cuxhaven,04721 4224 0,04721 4224 60,http://www.drk-cuxhaven-hadeln.de,info@drk-cuxhaven-hadeln.de
+54,Kreisverband Dachau,Rotkreuzplatz 3-4,85221, Dachau,08131 3663 0,08131 3663 55,http://www.kvdachau.brk.de,info@kvdachau.brk.de
+55,Kreisverband Darmstadt-Land e.V.,Hinter den Zäunen 1,64342, Seeheim-Jugenheim,06257 9709-0,06257 9709-29,http://www.drk-darmstadt-land.de,info@drk-darmstadt-land.de
+56,Kreisverband Darmstadt-Stadt e.V.,Mornewegstr. 15,64293, Darmstadt,06151 3606 10,06151 3606 199,https://www.drk-darmstadt.de,info@drk-darmstadt.de
+57,Kreisverband Deggendorf,Wiesenstraße 8,94469, Deggendorf,0991 3604 0,0991 3604 199,http://www.kvdeggendorf.brk.de,info@kvdeggendorf.brk.de
+58,Kreisverband Delitzsch e.V.,Eilenburger Str. 61,04509, Delitzsch,034202 30940,034202 309428,https://www.drk-delitzsch.de,info@drk-delitzsch.de
+59,Kreisverband Delmenhorst e.V.,Schulstr. 17,27749, Delmenhorst,04221 9842 98,04221 9842 942,http://www.drk-delmenhorst.de/,verwaltung@drk-delmenhorst.de
+60,Kreisverband Demmin e.V.,Rosestraße 38a,17109, Demmin,03998 27170,03998 271716,http://demmin.drk.de,info@demmin.drk.de
+61,Kreisverband DEMO-KV B,Ahornweg 1,99999, Demoweg,,,,
+62,Kreisverband Dessau e.V.,Amalienstraße 138,06844, Dessau-Roßlau,0340 260840,0340 2608426,http://www.drk-dessau.de/,kreisverband@drk-dessau.de
+63,Kreisverband Dieburg e.V.,Am Altstädter See 7,64807, Dieburg,06071 9637 0,06071 9637 30,http://www.drkdieburg.de,info@drkdieburg.de
+64,Kreisverband Diepholz e.V.,Herrlichkeit 30,28857, Syke,04242 967960,,http://www.drk-diepholz.drk.de,info@drk-diepholz.de
+65,Kreisverband Dillingen,Schillerstr. 3,89407, Dillingen,09071 7930 0,09071 7930 30,http://www.kvdillingen.brk.de,info@kvdillingen.brk.de
+66,Kreisverband Dillkreis e.V.,Gerberei 4,35683, Dillenburg,02771 303 0,02771 303 37,http://www.drk-dillenburg.de/,info@drk-dillenburg.de
+67,Kreisverband Dingolfing-Landau,Krankenhausstraße 6,84130, Dingolfing,08731 3141 0,08731 5467,http://www.kvdingolfing.brk.de/,info@kvdingolfing.brk.de
+68,Kreisverband Dinslaken-Voerde-Hünxe e.V.,Heinrich-Nottebaum-Str. 24,46535, Dinslaken,02064 4468 0,02064 4468 88,http://www.drk-dinslaken.de/,verwaltung@drk-dinslaken.de
+69,Kreisverband Dippoldiswalde e.V.,Rabenauer Straße 45,01744, Dippoldiswalde,03504 62160,03504 612082,http://www.drk-dippoldiswalde.de,office@drk-dippoldiswalde.de
+70,Kreisverband Dithmarschen e.V.,Hamburger Str. 73,25746, Heide,0481 902 7000,0481 902 55,http://www.drk-dithmarschen.de,info@drk-dithmarschen.de
+71,Kreisverband Döbeln-Hainichen e.V.,Feldstr. 6,09661, Hainichen,037207 689 0,037207 689 24,http://www.drk-mittelsachsen.de,info@dl-hc.drk.de
+72,Kreisverband Donaueschingen e.V.,Dürrheimer Str. 2 b,78166, Donaueschingen,0771 83275 0,0771 83275 79,http://www.drk-kv-donaueschingen.de,info@drk-kv-ds.de
+73,Kreisverband Donnersberg e.V.,Dannenfelserstr. 40 a,67292, Kirchheimbolanden,06352 4007 0,06352 4007 99,http://www.drk-kv-donnersberg.de/,info@drk-kv-donnersberg.de
+74,Kreisverband Dortmund e.V.,Beurhausstr. 71,44137, Dortmund,0231 1810 0,0231 1810 111,http://www.DRK-Dortmund.de,Info@DRK-Dortmund.de
+75,Kreisverband Dresden e.V.,Klingerstr. 20,01139, Dresden,0351 8500220,0351 8500221,http://www.drk-dresden.de/,info@drk-dresden.de
+76,Kreisverband Dresden-Land e.V.,Forststraße 26,01445, Radebeul,0351 4390 830,0351 4390 839,http://www.drk-dresdenland.de,kgs@drk-dresdenland.de
+77,Kreisverband DRK im Ennepe-Ruhr-Kreis - Kreisverband e.V.,Talstr. 22,45525, Hattingen,02324 201111,02324 201149,http://www.drk-kv-en.de/,kv@drk-kv-en.de
+78,Kreisverband DRK Zentrum Plauen/Vogtland e.V.,Kurze Straße 18 - 20,08529, Plauen,0 37 41 40 68 33,0 37 41 40 39 838,http://www.drk-plauen.de,info@drkzentrumplauen.de
+79,Kreisverband Duderstadt e.V.,Schöneberger Str. 9-11,37115, Duderstadt,05527 3150,05527 841896,http://www.drk-duderstadt.de,info@drk-duderstadt.de
+80,Kreisverband Duisburg e.V.,Am Burgacker 30,47051, Duisburg,0203 28283 0,0203 28283 398,http://www.drk-duisburg.de,info@drk-duisburg.de
+81,Kreisverband Düren e.V.,Neumühle 6,52349, Düren,02421 20309 0,02421 20309 264,http://www.drk-dueren.de,info@drk-dueren.de
+82,Kreisverband Düsseldorf e.V.,Kölner Landstr. 169,40591, Düsseldorf,0211 2299 2000,0211 2299 1133,https://www.DRK-duesseldorf.de,info@DRK-duesseldorf.de
+83,Kreisverband Ebersberg,Zur Gass 5,85560, Ebersberg,08092 2095 0,08092 2095 20,https://www.kvebersberg.brk.de,info@kvebersberg.brk.de
+84,Kreisverband Eichsfeld e.V.,Ohmbergstr. 2,37339, Leinefelde-Worbis,036074 964 0,036074 964 44,https://www.drk-eichsfeld.de/,info@drk-eichsfeld.de
+85,Kreisverband Eichstätt,Grabmannstr. 2,85072, Eichstätt,08421 9757 0,08421 9757 22,http://www.kveichstaett.brk.de,info@kveichstaett.brk.de
+86,Kreisverband Eilenburg e.V.,Bernhardistr. 15,04838, Eilenburg,03423 700450,03423 700456,http://www.drk-eilenburg.de,T.Hentzschel@drk-eilenburg.de
+87,Kreisverband Eisenach e.V.,Rot-Kreuz-Weg 1,99817, Eisenach,03691 887 100,03691 887 199,https://DRK-Eisenach.de,Info@KV-Eisenach.DRK.de
+88,Kreisverband Emden e.V.,Friedrich-Ebert-Str. 82,26725, Emden,04921 20211,04921 31827,https://www.drkemden.de/,leitung@drkemden.de
+89,Kreisverband Emmendingen e.V.,Freiburger Str. 12,79312, Emmendingen,07641 4601 0,07641 4601 60,http://www.drk-emmendingen.de,info@drk-emmendingen.de
+90,Kreisverband Emsland e.V.,Jahnstr. 2-4,49808, Lingen,0591 800330,0591 80033 10 89,http://www.drk-emsland.de,info@drk-emsland.de
+91,Kreisverband Erding,Wilhelm-Bachmair-Str. 2,85435, Erding,08122 97620,08122 976214,http://www.brk-erding.de,info@kverding.brk.de
+92,Kreisverband Erfurt e.V.,Mühlhäuserstr. 76,99092, Erfurt,0361 7842 0,0361 7842 010,http://www.drk-erfurt.de/,info@drk-erfurt.de
+93,Kreisverband Erlangen-Höchstadt,Henri-Dunant-Str.4,91058, Erlangen,09131 1200 0,09131 1200 104,http://www.kverlangen-hoechstadt.brk.de,info@kverh.brk.de
+94,Kreisverband Eschwege e.V.,An den Anlagen 10 a,37269, Eschwege,05651 7426 0,05651 7426 27,https://www.drkeschwege.de,info@drkeschwege.de
+95,Kreisverband Essen e.V.,Hachestr. 72,45127, Essen,0201 8474 0,0201 8474 199,https://www.drk-essen.de,info@drk-essen.de
+96,Kreisverband Esslingen e.V.,Teckstr. 52,73734, Esslingen,0711 39005 700,0711 39005 55,http://www.drk-esslingen.de,info@drk-esslingen.de
+97,Kreisverband Euskirchen e.V.,Jülicher Ring 32b,53879, Euskirchen,02251   79 11 0,02251   79 11 15,http://www.drk-eu.de,info@drk-eu.de
+98,Kreisverband Fallingbostel e.V.,Albrecht-Thaer-Str. 2,29664, Walsrode,05161 9817 0,05161 9817 21,http://www.drk-walsrode.de,info@drk-walsrode.de
+99,Kreisverband Fläming-Spreewald e.V.,Neue Parkstraße 18,14943, Luckenwalde,03371 6257 0,03371 6257 50,http://www.drk-flaeming-spreewald.de,mail@drk-flaeming-spreewald.de
+100,Kreisverband Forchheim,Henri-Dunant-Str. 1,91301, Forchheim,09191 7077 0,09191 7077 77,https://kvforchheim.brk.de,info@kvforchheim.brk.de
+101,Kreisverband Frankenberg e.V.,Auestr. 25,35066, Frankenberg,06451 7227 0,06451 4894,http://www.drk-frankenberg.de,info@drk-frankenberg.de
+102,Kreisverband Frankfurt am Main e.V.,Seilerstraße 23,60313, Frankfurt am Main,069 71 91 91 - 0,069 71 91 91 - 99,https://www.drkfrankfurt.de,info@drkfrankfurt.de
+103,Kreisverband Freiberg e.V.,Annaberger Str. 5,09599, Freiberg,03731 2632 0,03731 2632 29,http://www.drk-freiberg.de,mail@drk-freiberg.de
+104,Kreisverband Freiburg e.V.,Dunantstraße 2,79110, Freiburg,0761 88508 0,0761 88508 266,http://www.drk-freiburg.de,zentrale@drk-freiburg.de
+105,Kreisverband Freising,Rotkreuzstr. 13-15,85354, Freising,08161 9671 0,08161 9671 22,http://www.kvfreising.brk.de,info@kvfreising.brk.de
+106,Kreisverband Freital e.V.,Dresdner Str. 207,01705, Freital,0351 64964 0,0351 64964 40,http://www.drkfreital.de/,info@drkfreital.de
+107,Kreisverband Freudenstadt e.V.,Hirschkopfstraße 18,72250, Freudenstadt,07441 867 0,07441 867 9902,https://www.drk-kv-fds.de/,info@drk-kv-fds.de
+108,Kreisverband Freyung - Grafenau,Kolpingstraße 11,94078, Freyung,08551 9144- 0,,http://www.kvfreyung.brk.de,info@kvfreyung.brk.de
+109,Kreisverband Friedberg e.V.,Homburger Str. 26,61169, Friedberg,06031 6000 0,06031 6000 310,http://www.drk-friedberg.de,info@drk-friedberg.de
+110,Kreisverband Fulda e.V.,St.-Laurentius-Str. 4,36041, Fulda,0661 90291-0,0661 90291-30,https://www.drk-fulda.de,kontakt@drk-fulda.de
+111,Kreisverband Fürstenfeldbruck,Dachauer Str. 35,82256, Fürstenfeldbruck,08141 4004 0,08141 4004 40,http://www.brk-ffb.de,info@kvffb.brk.de
+112,Kreisverband Fürth,Henri-Dunant-Str. 11,90762, Fürth,0911 77981 0,0911 77981 38,https://www.brk-fuerth.de/,info@brkfuerth.de
+113,Kreisverband Garmisch-Partenkirchen,Falkenstr. 9,82467, Garmisch-Partenkirchen,08821 94321 0,08821 2222,http://www.brk-gap.de,info@brk-gap.de
+114,Kreisverband Geithain e.V.,Dresdener Straße 33 b,04643, Geithain,034341 303 0,034341 303 15,http://www.drk-geithain.de/,info@drk-geithain.de
+115,Kreisverband Gelnhausen-Schlüchtern e.V.,Frankfurter Str. 34,63571, Gelnhausen,06051 4800 0,06051 4800 119,http://www.drk-gelnhausen-schluechtern.de,info@drk-gelnhausen-schluechtern.de
+116,Kreisverband Gelsenkirchen e.V.,Im Sundern 15,45881, Gelsenkirchen,0209 9 83 83 0,0209 9 83 83 55,http://www.drk-ge.de,info@drk-ge.de
+117,Kreisverband Gera-Stadt e.V.,Ebelingstr. 15,07545, Gera,0365   839740,0365   8397499,http://www.drk-gera.de/,kreisverband@drk-gera.de
+118,Kreisverband Germersheim/Pfalz e.V.,Hans-Graf-Sponeck-Str. 33,76726, Germersheim,07274 2460,07274 8358,http://www.drk-kv-germersheim.de/,info@drk-kv-germersheim.de
+119,Kreisverband Gifhorn e.V.,Am Wasserturn 5,38518, Gifhorn,05371804-0,05371804-999,http://www.drk-gifhorn.de,info@drk-gifhorn.de
+120,Kreisverband Gladbeck e.V.,Europastraße 26,45968, Gladbeck,02043 48460 oder 19219,02043 484646,http://www.drk-gladbeck.de,kgst@kv-gladbeck.drk.de
+121,Kreisverband Glauchau e.V.,Plantagenstr. 1 a,08371, Glauchau,03763 6000 20,03763 6000 21,http://www.drk-glauchau.de,Info@kvglauchau.drk.de
+122,Kreisverband Göppingen e.V.,Eichertstraße 1,73035, Göppingen,07161 6739 0,07161 6739 50,http://www.drk-goeppingen.de/,info@drk-goeppingen.de
+123,Kreisverband Görlitz Stadt und Land e.V.,Lausitzer Straße 20-22,02828, Görlitz,03581 362410,03581 362444,https://www.drk-goerlitz.de/,info@drk-goerlitz.de
+124,Kreisverband Goslar e.V.,Wachtelpforte 38,38644, Goslar,05321 3700 0,05321 3700 99,https://www.drk-goslar.de,info@drk-goslar.de
+125,Kreisverband Gotha e.V.,Oststr. 31,99867, Gotha,03621 4196 0,03621 4196 29,http://drk-gotha.de,info@drk-gotha.de
+126,Kreisverband Göttingen-Northeim e.V.,Zimmermannstraße 4,37075, Göttingen,0551 38312 0,0551 38312 59,https://www.drk-goe-nom.de,info@drk-goe-nom.de
+127,Kreisverband Grafschaft-Bentheim e.V.,Denekamper Str. 76,48529, Nordhorn,49 5921 8836 0,49 5921 8836 29,http://www.drk-grafschaft-bentheim.de,info@drk-grafschaft-bentheim.de
+128,Kreisverband Gransee e.V.,Koliner Straße 12a,16775, Gransee,03306 796910,03306 796929,http://www.drk-gransee.de,info@drk-gransee.de
+129,Kreisverband Grevenbroich e.V.,Am Flutgraben 63,41515, Grevenbroich,02181 6500 0,02181 6500 36,http://www.drk-grevenbroich.de/,info@drk-grevenbroich.de
+130,Kreisverband Groß-Gerau e.V.,Henry-Dunant-Str. 1,64521, Groß-Gerau,06152 988 0,06152 988 199,http://www.drk-gg.de,info@drk-gg.de
+131,Kreisverband Großenhain e.V.,Bobersbergstraße 14,01558, Großenhain,03522 51440,03522 514419,http://www.drk-grossenhain.de/,info@drkgrh.de
+132,Kreisverband Günzburg/Donau,Parkstr. 31,89312, Günzburg,08221 3604 0,08221 3604 31,http://www.kvguenzburg.brk.de/,info@kvguenzburg.brk.de
+133,Kreisverband Güstrow e.V.,Hagemeisterstr. 5,18273, Güstrow,03843 6949 0,03843 694942,https://www.drk-guestrow.de/,empfang@drk-guestrow.de
+134,Kreisverband Gütersloh e.V.,Kaiserstr. 38,33330, Gütersloh,05241 9886 0,05241 9886 17,https://www.drk-guetersloh.de/,info@drk-guetersloh.de
+135,Kreisverband Hagen e.V.,Feithstr. 36a,58095, Hagen,02331 95890,02331 9589617,http://kv-hagen.drk.de/,drkhagen@drk-hagen.de
+136,Kreisverband Halle-Saalkreis-Mansfelder Land e.V.,Delitzscher Straße 118,06116, Halle,0345 29178 0,0345 29178 99,http://www.kv-halle-sk-ml.drk.de,info@kv-halle-sk-ml.drk.de
+137,Kreisverband Hamburg-Altona und Mitte e.V.,Langbehnstr. 4,22761, Hamburg,040 890 811-0,040 890 811-51,http://www.drk-altona-mitte.de,email@drk-altona-mitte.de
+138,Kreisverband Hamburg-Bergedorf e.V.,Allermöher Deich 437,21037, Hamburg,040 735953-10,040 735953-19,http://www.drk-bergedorf.de,info@drk-bergedorf.de
+139,Kreisverband Hamburg-Eimsbüttel e.V.,Hoheluftchaussee 145,20253, Hamburg,040 411 706 0,,https://www.drk-eimsbuettel.de,info@drk-eimsbuettel.de
+140,Kreisverband Hamburg-Harburg e.V.,Rote-Kreuz-Straße 3-5,21073, Hamburg,040   766 092 0,040   772 659,http://www.drk-harburg.hamburg,info@drk-harburg.hamburg
+141,Kreisverband Hamburg-Nordost e.V.,Steilshooper Straße 2,22305, Hamburg,040 47 06 56,040 657 0041,https://www.drk-hamburg-nordost.de/,info@drk-hamburg-nordost.de
+142,Kreisverband Hamm e.V.,Brüderstraße 59,59065, Hamm,02381 92050 10,02381 92050 11,http://www.drk-hamm.de/,info@drk-hamm.de
+143,Kreisverband Hanau e.V.,Johann-Carl-Koch-Straße 4,63452, Hanau,06181 106 0,06181 106 100,http://www.drk-hanau.de,info@drk-hanau.de
+144,Kreisverband Harburg-Land e.V.,Rote-Kreuz-Str. 5,21423, Winsen,04171 88900,04171 889088,http://www.drk-lkharburg.de,info@drk-lkharburg.de
+145,Kreisverband Haßberge,Industriestr. 20,97437, Haßfurt,09521 9550 0,09521 9550 220,http://www.kvhassberge.brk.de,info@kvhassberge.brk.de
+146,Kreisverband Heidenheim e.V.,Schloßhaustr. 98,89522, Heidenheim a. d. Brenz,07321 3583 0,07321 3583 60,http://www.drk-heidenheim.de/,info@drk-heidenheim.de
+147,Kreisverband Heilbronn e.V.,Frankfurter Str. 12,74072, Heilbronn,07131 6236 0,07131 6236 23,http://www.drk-heilbronn.de,info@drk-heilbronn.de
+148,Kreisverband Heinsberg e.V.,Zur Feuerwache 8,41812, Erkelenz,02431 802 0,02431 802 299,http://www.drk-heinsberg.de,info@drk-heinsberg.de
+149,Kreisverband Helmstedt e.V.,Schöninger Str. 10,38350, Helmstedt,05351 5858 0,05351 5858 58,https://www.drk-kv-he.de,info@drk-kv-he.de
+150,Kreisverband Herford-Land e.V.,Sachsenstr. 116/118,32257, Bünde,05223 9297 0,05223 9297 30,http://www.drk-herford-land.de,info@drk-herford-land.de
+151,Kreisverband Herford-Stadt e.V.,Wittekindstr. 21,32051, Herford,05221 56784,05221 54953,http://www.drk-herford.de,info@drk-herford.de
+152,Kreisverband Herne und Wanne-Eickel e.V.,Harkortstr. 29,44652, Herne,02325 969 500,02325 969 1520,http://www.drk-herne.de,info@drk-herne.de
+153,Kreisverband Hersfeld e.V.,Seilerweg 52,36251, Bad Hersfeld,06621 9264 0,06621 9264 46,http://www.drk-hersfeld.de,info@drk-hersfeld.de
+154,Kreisverband Herzogtum Lauenburg e.V.,Röpersberg 10,23909, Ratzeburg,04541 86440,04541 864420,http://www.drk-kv-rz.de,info@drk-kv-rz.de
+155,Kreisverband Hildburghausen e.V.,Seminarstr. 28,98646, Hildburghausen,03685 6769478,03685 6769475,http://www.drk-hildburghausen.de/,info@drk-hildburghausen.de
+156,Kreisverband Hildesheim e.V.,Brühl 8,31134, Hildesheim,05121 9360 0,05121 9360 49,http://www.drk-hildesheim.de/,sekretariat@kv-hildesheim.drk.de
+157,Kreisverband Hildesheim-Marienburg e.V.,Daimlerring 8,31135, Hildesheim,05121 1684 0,05121 1684 30,https://www.drk.hildesheim-marienburg.de,drk-kreisverband@drk.hildesheim-marienburg.de
+158,Kreisverband Hochtaunus e.V.,Kaiser-Friedrich-Promenade 5,61348, Bad Homburg,06172 1295 0,06172 1295 11,http://www.drk-hochtaunus.de,info@drk-hochtaunus.de
+159,Kreisverband Hof ,Ernst-Reuter-Str. 66 b,95030, Hof,09281 6293 0,09281 6293 30,http://www.kvhof.brk.de,info@kvhof.brk.de
+160,Kreisverband Hofgeismar e.V.,Friedrich-Pfaff-Str. 1,34369, Hofgeismar,05671 9966 0,05671 9966 66,http://www.drk-hofgeismar.de,info@drk-hofgeismar.de
+161,Kreisverband Hohenlohe e.V.,Dieselstr.10,74653, Künzelsau,07940 9225 0,07940 9225 49,https://www.drk-hohenlohe.de,info@drk-hohenlohe.de
+162,Kreisverband Hohenstein-Ernstthal e.V.,Badegasse 1,09337, Hohenstein-Ernstthal,03723 42001,03723 42868,https://www.drk-hohenstein-er.de,verwaltung@drk-Hohenstein-er.de
+163,Kreisverband Homburg e.V.,Bahnhofsplatz 9,66424, Homburg,06841 99309 0,06841 99309 44,http://www.kv-homburg.drk.de,info@kv-homburg.drk.de
+164,Kreisverband Höxter e.V.,Corveyer Allee 29a,37671, Höxter,05271 932150,05271 9321529,http://www.hoexter.drk.de/,info@hoexter.drk.de
+165,Kreisverband Hünfeld e.V.,Mackenzeller Str. 19,36088, Hünfeld,06652 9670 0,06652 9670 70,http://www.DRK-huenfeld.de,info@DRK-huenfeld.de
+166,Kreisverband Ingolstadt,Auf der Schanz 30,85049, Ingolstadt,0841 9333 0,0841 933329,http://www.kvingolstadt.brk.de/,info@kvingolstadt.brk.de
+167,Kreisverband Jena-Eisenberg-Stadtroda e.V.,Dammstraße 32,07749, Jena,03641 400 0,03641 400 111,http://www.drk-jena.de,info@drk-jena.de
+168,Kreisverband Jeverland e.V.,Sophienstr. 30,26441, Jever,04461  748 68 0,04461  748 68 19,http://www.drk-jeverland.de,info@drk-jeverland.de
+169,Kreisverband Jülich e.V.,Oststraße 22,52428, Jülich,02461 3436 0,02461 3436 29,http://www.drk-juelich.de,info@drk-juelich.de
+170,Kreisverband Kaiserslautern Land e.V.,Am Feuerwehrturm 6,66849, Landstuhl,06371 9215 0,06371 9215 20,https://www.kv-kl-land.drk.de,info@kv-kl-land.drk.de
+171,Kreisverband Kaiserslautern-Stadt e.V.,Barbarossastraße 27,67655, Kaiserslautern,0631 80093 0,0631 80093 101,http://www.drk-kl.de,Info@kv-kls.drk.de
+172,Kreisverband Karlsruhe e.V.,Am Mantel 3,76646, Bruchsal,07251 922 0,07251 922 104,http://www.drk-karlsruhe.de,info@drk-karlsruhe.de
+173,Kreisverband Kassel Land e.V.,Weddel 10,34233, Fuldatal,0561 981099 0,0561 981099 9,http://www.drk-kassel-land.de,info@drk-kassel-land.de
+174,Kreisverband Kassel-Wolfhagen e.V.,Königstor 24,34117, Kassel,0561 72904 0,0561 72904 49,http://www.drk-kassel.de,info@drk-kassel.de
+175,Kreisverband Kehl e.V.,Kanzmattstr. 4,77694, Kehl,07851 9433 10,07851 9433 50,http://www.drk-kehl.de/,info@drk-kehl.de
+176,Kreisverband Kelheim,Abensberger Str. 6,93309, Kelheim,09441 5028 0,09441 5028 21,http://www.kvkelheim.brk.de/,info@kvkelheim.brk.de
+177,Kreisverband Kiel e.V.,Holzkoppelweg 21,24118, Kiel,0431 59008 0,0431 59008 998,http://drk-kiel.de/startseite.html,info@drk-kiel.de
+178,Kreisverband Kitzingen,Schmiedelstr. 3,97318, Kitzingen,09321 2103-0,09321 2103-19,http://www.kvkitzingen.brk.de,info@kvkitzingen.brk.de
+179,Kreisverband Kleve-Geldern e.V.,Lindenallee 73,47533, Kleve,02821 508 0,02821 12555,http://www.drk-kleve.de,info@drk-kleve.de
+180,Kreisverband Klingenthal e.V.,Kirchstr. 56,08248, Klingenthal,037467 22107,037467 669760,http://www.drk-klingenthal.de,kontakt@drk-klingenthal.de
+181,Kreisverband Koblenz-Stadt e.V.,Ferdinand-Sauerbruch-Str. 12,56073, Koblenz,0261 40636 0,0261 40636 72,http://www.drk-koblenz.de,info@drk-koblenz.de
+182,Kreisverband Köln e.V.,Oskar-Jäger-Str. 42,50825, Köln,0221 5487 0,0221 5487 247 ,http://www.drk-koeln.de,info@drk-koeln.de
+183,Kreisverband Korbach- Bad Arolsen e.V.,Arolser Landstr. 23,34497, Korbach,05631 9599 0,05631 9599 30,http://www.drk-korbach.de,info@drk-korbach.de
+184,Kreisverband Köthen e.V.,Siebenbrünnenpromenade 5,06366, Köthen (Anhalt),03496-405050,03496 405051,http://www.drk-koethen.de/,info@drk-koethen.de
+185,Kreisverband Krefeld e.V.,Uerdinger Str. 609,47800, Krefeld,02151 5396 0,02151 5396 66,http://www.drk-krefeld.de,geschaeftsstelle@drk-krefeld.de
+186,Kreisverband Kronach,Friesener Str. 46,96317, Kronach,0 92 61  60 72 0,0 92 61  60 72 199,http://www.brk-kronach.de,info@kvkronach.brk.de
+187,Kreisverband Kulmbach,Rot-Kreuz-Platz 1,95326, Kulmbach,09221 9745 0,09221 9745 7000,https://www.brk-kulmbach.de,info@brk-kulmbach.de
+188,Kreisverband Kundenberatung DDL,Berliner Str. 83,13189, Berlin,,,,support@drkservice.de
+189,"Kreisverband Kursstadt (KTV, KiFam, S)",Kursstr. 1-3,88888, Kursstadt,,,,musterkursstadt@drk-dev.de
+190,Kreisverband Kusel e.V.,Trierer Straße 39,66869, Kusel/Pfalz,06381 9246 0,06381 9246 98,http://www.drk-kv-kusel.de/,kreisverband@kv-kusel.drk.de
+191,Kreisverband KV Terminbuchungstool,Musterweg 1,99999, Musterberg,,,,ktv-terminbuchungstool@drk-dev.de
+192,Kreisverband KV Umgebung,Weg 1,99999, Musterbach,,,,Mailtest@mail.de
+193,Kreisverband Land Hadeln e.V.,Am Großen Specken 14,21762, Otterndorf,04751 99 09 0,04751 99 09 100,http://www.drk-cuxhaven-hadeln.de/,info@drk-cuxhaven-hadeln.de
+194,Kreisverband Landau e.V.,Am alten Güterbahnhof 5,76829, Landau,06341 9291 0,06341 9291 11,http://www.drk-landau.de,info@drk-landau.de
+195,Kreisverband Landkreis  Konstanz e.V.,Konstanzer Str. 74,78315, Radolfzell am Bodensee,07732 9460 0,07732 9460 185,http://www.drk-kn.de,info@drkkn.de
+196,Kreisverband Landkreis Greiz e.V.,Greizer Straße 95,07937, Zeulenroda-Triebes,036628 4990,036628 499 30,https://www.drk-zeulenroda.de,geschaeftsstelle@drk-zeulenroda.de
+197,Kreisverband Landsberg am Lech,Max-Friesenegger-Str. 45,86899, Landsberg am Lech,08191 9188 0,08191 9188 21,http://www.brk-landsberg.de/,info@brk-landsberg.de
+198,Kreisverband Landshut,Professor-Buchner-Str. 20,84034, Landshut,0871 96221 0,0871 96221 20,http://www.kvlandshut.brk.de,info@kvlandshut.brk.de
+199,Kreisverband Lauterbach e.V.,Hohe Bergstraße 2,36341, Lauterbach,06641 9663-0,06641 9663-30,https://www.drk-lauterbach.de,service@drk-lauterbach.de
+200,Kreisverband Leer e.V.,Heisfelder Str. 141,26789, Leer,0491 929230,0491 92923 50,http://www.drk-leer.de/,info@drk-leer.de
+201,Kreisverband Leipzig Land e.V.,Schulstraße 15,04442, Zwenkau,034203 490,034203 49102,http://www.drk-leipzig-land.de/,buero@drk-leipzig-land.de
+202,Kreisverband Leipzig-Stadt e.V.,Brandvorwerkstr. 36 a,04275, Leipzig,0341 30350,0341 3035199,http://www.drk-leipzig.de,Info@drk-leipzig.de
+203,Kreisverband Leverkusen e.V.,Düsseldorfer Str. 28,51379, Leverkusen,02171 4006 110,02171 4006 166,http://www.drk-leverkusen.de,info@drk-leverkusen.de
+204,Kreisverband Lichtenfels,Henry-Dunant-Straße 6,96215, Lichtenfels,09571  95 90  0,09571  95 90   20,http://www.kvlichtenfels.brk.de/,info@kvlichtenfels.brk.de
+205,Kreisverband Limburg e.V.,Senefelderstraße 1,65553, Limburg,06431 9190 0,06431 9190 199,http://www.drk-limburg.de,info@drk-limburg.de
+206,Kreisverband Lindau (B),Rotkreuzplatz 1,88131, Lindau,08382 2770 0,08382 2770 49,http://www.kvlindau.brk.de/,info@kvlindau.brk.de
+207,Kreisverband Lippe e.V.,Hornsche Str. 29+31,32756, Detmold,05231 92140,05231 921442,https://www.drk-lippe.de,info@drk-lippe.de
+208,Kreisverband Lippstadt-Hellweg e.V.,Gografenstr. 9,59597, Erwitte,02943 871 320,02943 871 287,http://www.drk-hellweg.de,info@drk-hellweg.de
+209,Kreisverband Löbau e.V.,Äußere Zittauer Str. 47 a,02708, Löbau,03585 85098 0,03585 85098 13,http://www.drk-loebau.de,Sekretariat@DRK-Loebau.de
+210,Kreisverband Lörrach e.V.,Weiler Straße 6,79540, Lörrach,07621 1515 0,07621 151515,http://www.drk-loerrach.de,info@drk-loerrach.de
+211,Kreisverband Lübeck e.V.,Schwartauer Allee 92,23554, Lübeck,0451 481512 0,0451 481512 39,http://www.drk-luebeck.de,info@drk-luebeck.de
+212,Kreisverband Lüchow-Dannenberg e.V.,Am Reiterstadion 1 a,29451, Dannenberg,05861 98800,05861 9880 88,http://www.drk-dan.de,jzywek@drk-dan.de
+213,Kreisverband Ludwigsburg e.V.,Monreposstr. 53,71634, Ludwigsburg,07141 121 0,07141 121 222,http://www.drk-ludwigsburg.de/,info@drk-ludwigsburg.de
+214,Kreisverband Ludwigslust e.V.,Bahnhofstr. 6,19288, Ludwigslust,03874 32611 0,03874 32611 9,https://www.drk-lwl.de/,geschaeftsstelle@drk-lwl.de
+215,Kreisverband Lüneburg e.V.,Schnellenberger Weg 42,21339, Lüneburg,04131 6736 0,04131 6736 31,http://www.drk-lueneburg.de,kreisverband@drk-lueneburg.de
+216,Kreisverband Lünen e.V.,Spormeckerplatz 1a,44532, Lünen,02306 30611 0,02306 30611 25,http://www.drk-luenen.de/,drk@drk-luenen.de
+217,Kreisverband Magdeburg-Jerichower Land e.V. (Regionalverband),In der Alten Kaserne 13,39288, Burg,03921 3173,03921 635911,http://www.drk-mdjl.de,drk@drk-jl.de
+218,Kreisverband Main-Spessart,Wernfelder Straße 1,97737, Gemünden,09351 5081 0,09351 5081 199,http://www.kvmain-spessart.brk.de,info@kvmain-spessart.brk.de
+219,Kreisverband Main-Taunus e.V.,Schmelzweg 5,65719, Hofheim,06192-2077 0,06192-2077 66,http://www.drk-maintaunus.de,info@drk-maintaunus.de
+220,Kreisverband Mainz-Bingen e.V.,Im Niedergarten 20,55124, Mainz,06131 269 0,,http://www.drk-mainz.de,info@drk-mainz.de
+221,Kreisverband Mannheim e.V.,Hafenstraße 47,68159, Mannheim,062132180,06213218150,http://www.DRK-Mannheim.de,info@DRK-Mannheim.de
+222,Kreisverband Marburg-Gießen e. V.,Eichgärtenallee 90,35394, Gießen,0641 400060,0641 4000660,http://www.drk-mittelhessen.de,servicestelle@drk-mittelhessen.de
+223,Kreisverband Märkisch-Oder-Havel-Spree e.V.,Dr.- Wilhelm-Külz-Str. 37 - 38,15517, Fürstenwalde,03361 5967 0,03361 7694970,http://www.drk-mohs.de,info@drk-mohs.de
+224,Kreisverband Märkisch-Oderland-Ost e.V.,Feldstraße 2 a,15306, Seelow,03346 8834 0,03346 8834 25,http://www.drk-mol-ost.de,info@drk-mol-ost.de
+225,Kreisverband Märkischer Kreis e.V.,Karnacksweg 35 a,58636, Iserlohn,02351673200,023516732025,http://www.drk-im-mk.de,info@drk-im-mk.de
+226,Kreisverband Mayen-Koblenz e.V.,Westbahnhofstraße 7,56727, Mayen,02651 70080,02651 700860,http://www.mayen-koblenz.drk.de,info@mayen-koblenz.drk.de
+227,Kreisverband Mecklenburgische Seenplatte e.V.,Lessingstr. 70,17235, Neustrelitz,03981 2871 0,03981 287120,http://www.drk-msp.de/,info@drk-msp.de
+228,Kreisverband Meiningen e.V.,Neu-Ulmer-Str. 5,98617, Meiningen,03693 44950,03693 449555,http://www.drk-meiningen.de,DRK@DRK-Meiningen.de
+229,Kreisverband Meißen e.V.,Bergstr. 8,01662, Meißen,03521 75870,03521 758711,http://www.drk-meissen.de/,info@drk-meissen.de
+230,Kreisverband Melle e.V.,Bismarckstr. 17,49324, Melle,05422 96246 0,05422 96246 34,http://www.drk-melle.de,info@drk-melle.de
+231,Kreisverband Merzig-Wadern e.V.,Trierer Straße 148 K,66663, Merzig,0 68 61   93 49 0,0 68 61   93 49 30,http://www.drk-merzig.de,info@drk-merzig.de
+232,Kreisverband Mettmann e.V.,Bahnstraße 55,40822, Mettmann,02104  2169 0,02104  2169 15,http://www.drk-mettmann.de,info@drk-mettmann.de
+233,Kreisverband Miesbach,Wendelsteinstr. 9,83714, Miesbach,08025 2825 0,08025 2825 17,http://www.brk-miesbach.de/,info@kvmiesbach.brk.de
+234,Kreisverband Miltenberg-Obernburg,Römerstraße 93,63785, Obernburg,06022 6181 0,06022 6181 419,http://www.BRK-MIL.de,info@brk-mil.de
+235,Kreisverband Minden e.V.,Kutenhauser Straße 4,32425, Minden,0571 83747 0,0571 8374720,http://www.drkminden.de/,info@drk-kv-minden.de
+236,Kreisverband Mitgliederstadt (FMV),Musterweg 28,99999, Musterberg,030 868 778 340,030 868 778 319,,fmv-mitgliedstadt@drk-dev.de
+237,Kreisverband Mönchengladbach e.V.,Hohenzollernstr. 214,41063, Mönchengladbach,02161 46862 0,02161 46862 119,http://www.drk-mg.de,INFO@drk-mg.de
+238,Kreisverband Mosbach e.V.,Sulzbacher Straße 17,74821, Mosbach,06261 9208 80,06261 9208 90,https://www.drk-mosbach.de/,service-center@drk-mosbach.de
+239,Kreisverband Müggelspree e.V.,Waldowallee 101,10318, Berlin,030 5099679,030 5099550,http://www.drk-mueggelspree.de,info@drk-mueggelspree.de
+240,Kreisverband Mühldorf,Ahamer Straße 11,84453, Mühldorf,08631  36 55  0,08631  36 55 49,https://kvmuehldorf.brk.de/,info@kvmuehldorf.brk.de
+241,Kreisverband Mühlhausen e.V.,Windeberger Landstraße 38,99974, Mühlhausen,03601 8101 10,03601 8101 11,http://www.kv-muehlhausen.drk.de,info@kv-muehlhausen.drk.de
+242,Kreisverband Muldental e.V.,Nischwitzer Breite 4,04808, Wurzen,03425 896610,03425 896622,https://www.drkmuldental.de/,info@drkmuldental.de
+243,Kreisverband Mülheim an der Ruhr e.V.,Aktienstr. 58,45473, Mülheim an der Ruhr,0208 45006 0,0208 45006 11,http://www.drk-muelheim.de,kv@drk-muelheim.de
+244,Kreisverband Müllheim e.V.,Moltkestr. 14 a,79379, Müllheim,07631 1805 0,07631 1805 50,https://www.kv-muellheim.drk.de/,info@drk-muellheim.de
+245,Kreisverband München,Perchtinger Str. 5,81379, München,089 2373 0,089 2373 400,http://www.brk-muenchen.de,service@brk-muenchen.de
+246,Kreisverband Münster e.V.,Zumsandestr. 25/27,48145, Münster,0251 3788 0,0251 3788 55,https://www.drk-muenster.de,info@drk-muenster.de
+247,Kreisverband MUSTER-Bayern,Musterstr. 123,99999, Musterstadt,0147852369,0147852370,,mail@mailfake.de
+248,Kreisverband Muster-DEMO,Zentralstrasse 1,99999, Zentralstadt,05151 3460,05151 22588,http://DRK-intern.de,musterdemo@drk-dev.de
+249,Kreisverband Musterkurs-Standalone,Musterstraße 1,99999, Musterstadt,0123456789,0123456700,http://www.drk-musterkurs.de,musterkurs-standalon@drk-dev.de
+250,Kreisverband Musterstadt e.V.,Dunanstraße 1,88888, Musterstadt,0000 12345678,0000 12345679,http://www.DRK-intern.de,mustestadt@drk-dev.de
+251,Kreisverband Musterstadt-Planungstools,Musterstr. 1,99999, Musterstadt,,,,musterstadt-planungstools@drk-dev.de
+252,Kreisverband Naumburg-Nebra e.V.,Jägerstr. 28,06618, Naumburg,0344571330,03445713323,https://www.drk-naumburg.de,info@drk-naumburg.de
+253,Kreisverband Neu-Ulm,Pfaffenweg 42,89231, Neu-Ulm,0731 97441 0,0731 97441 22,http://www.brk-nu.de,info@kvneu-ulm.brk.de
+254,Kreisverband Neubrandenburg e.V.,Robert-Blum-Str. 34,17033, Neubrandenburg,0395 56039 0,0395 56039 29,http://www.neubrandenburg.drk.de,info@neubrandenburg.drk.de
+255,Kreisverband Neuburg-Schrobenhausen,Karl-Konrad-Str. 3,86633, Neuburg,08431 67990,08431 48840,http://www.kvndsob.brk.de,info@kvndsob.brk.de
+256,Kreisverband Neumarkt,Klägerweg 9,92318, Neumarkt,09181 483 0,09181 483 38,http://www.brk-neumarkt.de,info@brk-neumarkt.de
+257,Kreisverband Neumünster e.V.,Hahnknüll 58,24537, Neumünster,49 4321 905 230,49 4321 905 239,http://www.drk-nms.de,info@drk-nms.de
+258,Kreisverband Neunkirchen e.V.,Dr.-Maximilian-Rech-Str. 3,66564, Ottweiler,06824 91111,06824 91113,https://www.kv-neunkirchen.drk.de/,info@drk-kv-neunkirchen.de
+259,Kreisverband Neuss e.V.,Veilchenstraße 8 (Am Südpark),41466, Neuss,02131 74595 0,02131 74595 45,http://www.drk-neuss.de,info@drk-neuss.de
+260,Kreisverband Neustadt a.d. Aisch-Bad Windsheim,Robert-Koch-Straße 2,91413, Neustadt an der Aisch,09161 8877 0,09161 8877 21,http://www.kvnea-bw.brk.de,info@kvnea-bw.brk.de
+261,Kreisverband Neuwied e.V.,Pfarrstr. 64,56564, Neuwied,02631 9448 0,02631 9448 22,http://www.kv-neuwied.drk.de,info@kv-nr.drk.de
+262,Kreisverband Nicht Kunde CRM,Mustergasse 5,99999, Musterbach,,,,
+263,Kreisverband Niederbarnim e.V.,Börnicker Chaussee 1,16321, Bernau,03338 75386,03338 753873,http://www.drk-niederbarnim.de/,geschaeftsstelle@drk-niederbarnim.de
+264,Kreisverband Niederlausitz e.V.,Gartenstrasse 14,03130, Spremberg,03563 23 42,03563 34 25 929,http://www.drk-niederlausitz.de/,info@drk-niederlausitz.de
+265,Kreisverband Niederlausitz e.V.,Gartenstrasse 14,03130, Spremberg,03563 23 42,03563 34 25 929,http://www.drk-niederlausitz.de/,info@drk-niederlausitz.de
+266,Kreisverband Niederrhein e.V.,Handwerkerstr. 5,46485, Wesel,0281   3001   0,0281   3001   30,http://www.drk-niederrhein.de/,info@drk-niederrhein.de
+267,Kreisverband Nienburg/Weser e.V.,Moltkestraße 30,31582, Nienburg,05021 906 0,05021 906 250,http://www.drk-nienburg.de/,info@drk-nienburg.de
+268,Kreisverband Norden e.V.,Hooge Riege 28,26506, Norden,04931 94 92 0,04931 94 92 16,http://www.drk-kv-norden.de,info@drk-kv-norden.de
+269,Kreisverband Nordfriesland e.V.,Industriestr. 9,25813, Husum,04841 9668 0,04841 9668 22,https://www.drk-nordfriesland.de,info@drk-nordfriesland.de
+270,Kreisverband Nordhausen e.V.,Hallesche Str. 42,99734, Nordhausen,03631 4753 0,03631 475333,http://www.drk-nordhausen.de,info@drk-nordhausen.de
+271,Kreisverband Nordschwaben,Jennisgasse 7,86609, Donauwörth,0906 70682 0,0906 70682 732,http://www.brk-nordschwaben.de,info@kvnordschwaben.brk.de
+272,Kreisverband Nordvorpommern e.V.,Körkwitzer Weg 43,18311, Ribnitz-Damgarten,03821 87860,03821 878685,http://www.drk-nvp.de,info@drk-nvp.de
+273,Kreisverband Nordwestmecklenburg e.V.,Pelzerstr. 15,23936, Grevesmühlen,03881 7595 0,03881 2413,https://www.drk-nwm.de,info@drk-nwm.de
+274,Kreisverband Nürnberg-Stadt,Sulzbacher Str. 42,90489, Nürnberg,0911 5301 0,0911 5301 298,http://www.kvnuernberg-stadt.brk.de,info@kvnuernberg-stadt.brk.de
+275,Kreisverband Nürnberger Land,Henry-Dunant-Str. 1,91207, Lauf/Pegnitz,09123 9403 0,09123 12961,http://www.kvnl.brk.de,info@kvnl.brk.de
+276,Kreisverband Nürtingen-Kirchheim/Teck e.V.,Laiblinstegstr. 7-11,72622, Nürtingen,07022 7007 2100,07022 7007 53,http://www.kv-nuertingen.drk.de/,info@kv-nuertingen.drk.de
+277,Kreisverband Oberallgäu,Haubenschloßstr. 12,87435, Kempten,0831 52292 0,0831 52292 16,https://kvoberallgaeu.brk.de,info@kvoa.brk.de
+278,Kreisverband Oberbergischer Kreis e.V.,Scharder Straße 41b,51709, Marienheide,02264 20134 0,02264 20134 30,https://www.oberberg.drk.de,mail@Oberberg.DRK.de
+279,Kreisverband Oberhausen (Rhld.) e.V.,Theresenstr. 14,46049, Oberhausen,0208 85900 0,0208 85900 55,http://www.drk-ob.de,info@drk-ob.de
+280,Kreisverband Oberlahn e.V.,Frankfurter Str. 31,35781, Weilburg,06471 92800,06471 928029,http://www.drk-oberlahn.de/,Info@drk-oberlahn.de
+281,Kreisverband Odenwaldkreis e.V.,Illigstr. 11,64711, Erbach,06062 607100,06062 60755,http://www.drk-odenwaldkreis.de/,info@drk-odenwaldkreis.de
+282,Kreisverband Oelsnitz/Vogtland e.V.,Melanchthonstr. 26,08606, Oelsnitz,037421 4970,037421 497 18,http://www.drk-oelsnitz.de,info@drk-oelsnitz.de
+283,Kreisverband Offenbach e.V.,Herrnstraße 57,63065, Offenbach,069 75 66 20 20,069 75 66 20 39,http://www.drk-of.de,ausbildung@drk-of.de
+284,Kreisverband Offenburg e.V.,Rammersweierstraße 3,77654, Offenburg,07819191890,078191918950,http://www.drk-og.de,info@drk-og.de
+285,Kreisverband Oldenburg-Land e.V.,Parkstraße 55b,27798, Hude,04408 9391 0,04408 9391 33,https://www.drk-ol-land.de,info@drk-ol-land.de
+286,Kreisverband Oldenburg-Stadt e.V.,Schützenhofstraße 83/85,26135, Oldenburg,0 44 1 77 93 30,0 44 1 77 93 35 5,http://www.drk-ol.de,info@drk-ol.de
+287,Kreisverband Olpe e.V.,Hauptmanns Garten 9 a,57462, Olpe,02761 9648 0,02761 9648 30,http://www.kv-olpe.drk.de/,info@kv-olpe.drk.de
+288,Kreisverband Ortenau e.V.,Alte Bahnhofstraße 10/3,77933, Lahr / Schwarzwald,07821 98 18 40,07821 98 18 419,http://www.drk-lahr.de/,info@drk-lahr.de
+289,Kreisverband Osnabrück-Land e.V.,Im Nahner Feld 6,49082, Osnabrück,0541 589986,0541 589987,http://www.drk-os-land.de,info@kv-os-land.drk.de
+290,Kreisverband Osnabrück-Nord e.V.,Rosenweg 10,49577, Ankum,05462 7458980,05462 7457425,http://www.os-nord.drk.de,info@os-nord.drk.de
+291,Kreisverband Osnabrück-Stadt e.V.,Konrad-Adenauer-Ring 20,49074, Osnabrück,0541 3 58 38 0,05 41  3 58 38 12,http://www.drk-osnabrueck-stadt.de,info@drk-osnabrueck-stadt.de
+292,Kreisverband Ostallgäu,Beethovenstr. 2,87616, Marktoberdorf,08342 9669 0,08342 9669 55,http://www.brk-ostallgaeu.de,info@kvostallgaeu.brk.de
+293,Kreisverband Osterholz e. V.,Bördestraße. 23,27711, Osterholz - Scharmbeck,04791 9200 0,04791 9200 75,https://www.drk-ohz.de,info@drk-ohz.de
+294,Kreisverband Osterode am Harz e.V.,In der Horst 10,37520, Osterode am Harz,05522 99170,05522 991720,http://www.drk-kv-osterode.org,verwaltung@drk-kv-osterode.org
+295,Kreisverband Ostholstein e.V.,Waldstr. 6,23701, Eutin,04521 80030,04521 800339,http://www.drk-ostholstein.de,servicestelle@drk-oh.de
+296,Kreisverband Östliche Altmark e.V.,Moltkestr. 33,39576, Stendal,03931 64650,03931 646526,https://www.drk-stendal.de/,info@drk-stendal.de
+297,Kreisverband Ostprignitz-Ruppin e.V.,Straße des Friedens 3,16816, Neuruppin,03391 39630,03391 396318,http://www.drk-ostprignitz-ruppin.de/,info@drk-ostprignitz-ruppin.de
+298,Kreisverband Ostvorpommern-Greifswald e.V.,Ravelinstr. 17,17389, Anklam,03971 20030,03971 240004,http://www.drk-ovp-hgw.de,kreisverband@drk-ovp-hgw.de
+299,Kreisverband Paderborn e.V.,Neuhäuser Str. 62-64,33102, Paderborn,05251 13093 0,05251 13093 50,http://www.drk-paderborn.de,info@drk-paderborn.de
+300,Kreisverband Parchim e.V.,Moltkeplatz 3,19370, Parchim,03871 6225 0,03871 6225 25,https://www.drk-parchim.de,info@drk-parchim.de
+301,Kreisverband Passau,Rotkreuzstr. 1,94032, Passau,0851 959890,0851 9598928,https://kvpassau.brk.de,info@kvpassau.brk.de
+302,Kreisverband Peine e.V.,Hegelstr. 9,31224, Peine,05171 7675 0,05171 7675 29,http://www.drkpeine.de,info@drkpeine.de
+303,Kreisverband Pfaffenhofen a. d. Ilm,Michael-Weingartner-Straße 9,85276, Pfaffenhofen,08441 4933 0,08441 4933 33,http://www.kvpfaffenhofen.brk.de,info@kvpfaffenhofen.brk.de
+304,Kreisverband Pforzheim-Enzkreis e.V.,Kronprinzenstr. 22,75177, Pforzheim,07231 373 0,07231 373 244,http://www.drk-pforzheim.de/,info@drk-pforzheim.de
+305,Kreisverband Pinneberg e.V.,Oberer Ehmschen 53,25462, Rellingen,04101 5003  0,04101 5003 300,http://www.drk-kreis-pinneberg.de,drk-info@drk-kreis-pinneberg.de
+306,Kreisverband Pirna e.V.,Liebstädter Straße 4 b,01796, Pirna,03501 460170,03501 460199,http://www.drkpirna.de,kreisverband@drkpirna.de
+307,Kreisverband Plöner-Land  e.V.,Plöner Landstraße 14,24211, Schellhorn,0 43 42 90 33 40 0,0 43 42 90 33 40 90,http://www.drkploenerland.de,info@drkploenerland.de
+308,Kreisverband Potsdam/Zauch-Belzig e.V.,Arthur-Scheunert-Allee 2,14558, Nuthetal,033200513660,033200513633,http://www.drk-potsdam.de,info@drk-potsdam.de
+309,Kreisverband Prignitz e.V.,Friedensstraße 4b,19348, Perleberg,03876  79148 0,03876  7914830,http://www.drk-prignitz.de/,kreisverband@drk-prignitz.de
+310,Kreisverband Quedlinburg-Halberstadt e.V.,Ballstr. 22,06484, Quedlinburg,03946 7700 0,03946 7700 20,https://www.drk-harzkreis.de,info@drk-harzkreis.de
+311,Kreisverband Rastatt e.V.,Plittersdorfer Straße 1/3,76437, Rastatt,07222 9233-0,07222 9233-50,http://www.drk-rastatt.de,info@drk-rastatt.de
+312,Kreisverband Ravensburg e.V.,Ulmer Str. 95,88212, Ravensburg,0751 560610,0751 56061 49,http://www.drk-rv.de/,info@drk-rv.de
+313,Kreisverband Recklinghausen e.V.,Kölner Straße 20,45661, Recklinghausen,02361 9393 0,02361 9393 904,http://www.kv-recklinghausen.drk.de,info@drk-re.de
+314,Kreisverband Regen,Osserstr. 2,94209, Regen,09921 9446 0,09921 9446 50,http://www.brk-regen.de,info@kvregen.brk.de
+315,Kreisverband Regensburg,Hoher-Kreuz-Weg 7,93055, Regensburg,0941 79605 0,0941 79605 1600,http://www.brk-regensburg.de,info@kvregensburg.brk.de
+316,Kreisverband Region Hannover e.V.,Karlsruher Strasse 2c,30519, Hannover,0511 3671 0,0511 3671 102,http://www.drk-hannover.de,info@drk-hannover.de
+317,Kreisverband Reinickendorf-Wittenau e.V.,Antonienstraße 50A,13403, Berlin,030  600 300 5602,030  600 300 95602,https://www.drk-reinickendorf-wittenau.de,info@drk-rdfwitt.de
+318,Kreisverband Rems-Murr e.V.,Henri-Dunant-Str. 1,71334, Waiblingen,07151 2002 0,07151 2002 52,https://www.drk-rems-murr.de,info@drk-rems-murr.de
+319,Kreisverband Remscheid e.V.,Alleestr. 122 - 124,42853, Remscheid,02191 92350,02191 923590,http://www.DRK-Remscheid.de,info@drk-remscheid.de
+320,Kreisverband Rendsburg-Eckernförde e.V.,Berliner Straße 2,24768, Rendsburg,04331  138 3,04331 138 538,http://www.DRK-RdEck.de,info@DRK-RdEck.de
+321,Kreisverband Reutlingen e.V.,Obere Wässere 1,72764, Reutlingen,07121 9287 0,07121 928751,http://www.drk-reutlingen.de,info@drk-kv-rt.de
+322,Kreisverband Rhein-Erft e.V.,Zeppelinstr. 25,50126, Bergheim,02271 606 0,02271 606 100,http://www.drk-rhein-erft.de,info@drk-rhein-erft.de
+323,Kreisverband Rhein-Hunsrück e.V.,Poststr. 2,55469, Simmern,06761 9595 0,06761 9595 20,http://www.rhk.drk.de,info@rhk.drk.de
+324,Kreisverband Rhein-Lahn e.V.,Auf der Pütz 6,56130, Bad Ems,02603 9414 0,02603 941420,http://www.DRK-Rhein-Lahn.de,info@kv-rhein-lahn.drk.de
+325,Kreisverband Rhein-Neckar/  Heidelberg e.V.,Langer Anger 2,69115, Heidelberg,06221 9010 0,06221 901060,http://www.drk-heidelberg.de,geschaeftsfuehrung@drk-rn-heidelberg.de
+326,Kreisverband Rhein-Pfalz e.V.,Speyerer Str. 143,67112, Mutterstadt,06234 2200,06234 6866,http://www.DRK-Rhein-Pfalz.de,info@drk-kv-rp.de
+327,Kreisverband Rhein-Sieg e.V.,Zeughausstraße 3,53721, Siegburg,02241 5969 7900,,http://www.drk-rhein-sieg.de,info@drk-rhein-sieg.de
+328,Kreisverband Rhein.-Berg. Kreis e.V.,Hauptstr. 261,51465, Bergisch Gladbach,02202 93641 0,02202 93641 17,http://www.rhein-berg.drk.de,zentrale@Rhein-Berg.DRK.de
+329,Kreisverband Rheingau-Taunus e.V.,Am Kurpark 8,65307, Bad Schwalbach,06124 3000,06124 3007,http://www.drk-rheingau-taunus.de,info@drk-rheingau-taunus.de
+330,Kreisverband Rhön-Grabfeld,Sonnenstr. 1,97616, Bad Neustadt/Saale,09771 6123 0,09771 6123 40,http://www.kvrhoen-grabfeld.brk.de,info@kvrhoen-grabfeld.brk.de
+331,Kreisverband Riesa e.V.,Dr. - Külz - Str. 37,01589, Riesa,03525 6573 0,03525 6573 29,http://www.drk-riesa.de/,info@drk-riesa.de
+332,Kreisverband Rochlitz e.V.,Casparistr. 1,09306, Rochlitz,03737 49290,03737 492916,http://www.drk-rochlitz.de,info@drk-rochlitz.de
+333,Kreisverband Rosenheim,Tegernseestr. 5,83022, Rosenheim,08031 30190,08031 301910,https://www.brk-rosenheim.de,info@kvrosenheim.brk.de
+334,Kreisverband Rostock e.V.,Trelleborger Straße 11,18107, Rostock,0381 24 27 9 0,0381 24 27 9 9100,http://www.drk-rostock.de,info@drk-rostock.de
+335,Kreisverband Rotenburg (Wümme) e.V.,Brauerstraße 8,27356, Rotenburg,04261 9741 0,04261 974199,http://www.drk-row.de/,info@drk-row.de
+336,Kreisverband Rotenburg a. d. Fulda e.V.,Alte Wiese 6,36199, Rotenburg,06623 92350,06623 923516,https://www.drk-rof.de/,info@drk-kv-rotenburg.de
+337,Kreisverband Rottal-Inn,Arno-Jacoby-Str. 7,84347, Pfarrkirchen,08561 23 39 0,08561 23 39 39,http://www.brk-rottal-inn.de,info@kvrottal-inn.brk.de
+338,Kreisverband Rottweil e.V.,Krankenhausstr. 14,78628, Rottweil,0741 479 0,0741 7705,http://www.kv-rottweil.drk.de,geschaeftsstelle@kv-rottweil.drk.de
+339,Kreisverband Rügen-Stralsund e.V.,Billrothstr. 4,18528, Bergen auf Rügen,03838 8023 0,03838 8023 33,https://www.drk-ruegen-stralsund.de,info@drk-ruegen-stralsund.de
+340,Kreisverband Saale-Orla e.V.,Oschitzer Straße 1,07907, Schleiz,03663 42110,03663 421144,https://www.drk-sok.de,info@drk-sok.de
+341,Kreisverband Saalfeld-Rudolstadt e.V.,Breitscheidstr. 118,07407, Rudolstadt,03672 43 23 11,03672 43 23 43,http://www.drk-saalfeld-rudolstadt.de,info@drk-saalfeld-rudolstadt.de
+342,Kreisverband Saarbrücken e.V.,Ursulinenstr. 22,66111, Saarbrücken,0681 375910,0681 39150,http://www.kv-saarbruecken.drk.de,info@kv-saarbruecken.drk.de
+343,Kreisverband Saarlouis e.V.,Carl-Friedrich-Gauß-Str. 4,66793, Saarwellingen,06838 8999 0,06838 899999,http://www.drk-kv-saarlouis.de,drkkvsls@t-online.de
+344,Kreisverband Säckingen e.V.,Rot- Kreuz - Str. 4,79713, Bad Säckingen,07761 9201 0,07761 9201 40,http://www.drk-saeckingen.de,info@drk-saeckingen.de
+345,Kreisverband Salzwedel e.V.,Ackerstr. 24,29410, Salzwedel,03901 8610,03901 86123,http://www.drk-salzwedel.de,drk.salzwedel@t-online.de
+346,Kreisverband Sangerhausen e.V.,Schartweg 11,06526, Sangerhausen,03464   61 61  0,03464   61 61 24,http://www.drk-sangerhausen.de,info@drk-sangerhausen.de
+347,Kreisverband Schaumburg e.V.,Bornemannstraße 1,31683, Obernkirchen,05724 97260 0,05724 97260 99,https://www.drk-schaumburg.de,info@drk-schaumburg.de
+348,Kreisverband Schleswig-Flensburg e.V.,Lise-Meitner-Straße 9,24837, Schleswig,04621 819 0,04621 819 27,http://www.drk-sl-fl.de,info@drk-sl-fl.de
+349,Kreisverband Schmalkalden e.V.,Wilhelm-Külz-Str. 17,98574, Schmalkalden,03683 69670,03683 696729,http://www.drk-schmalkalden.de,info@drk-schmalkalden.de
+350,Kreisverband Schwäbisch Gmünd e.V.,Weißensteiner Straße 40,73525, Schwäbisch Gmünd,07171 3506 0,07171 3506 82,http://www.drk-gd.de,info@drk-gd.de
+351,Kreisverband Schwäbisch Hall - Crailsheim e.V.,Steinbacher Str. 27,74523, Schwäbisch Hall,0791 7588-0,0791 7588-175,http://www.drk-schwaebischhall.de/,service@drk-schwaebischhall.de
+352,Kreisverband Schwalm-Eder e.V.,Robert-Koch-Str. 20,34613, Schwalmstadt - Ziegenhain,06691 9463 0,06691 9463 33,http://www.drk-schwalm-eder.de,info@drk-schwalm-eder.de
+353,Kreisverband Schwandorf,Kopernikusstraße 5a,92421, Schwandorf,09431 7451 0,09431 7451 24,http://www.kvschwandorf.brk.de,info@kvschwandorf.brk.de
+354,Kreisverband Schweinfurt,Gorch-Fock-Str. 15,97421, Schweinfurt,09721 94904 0,09721 94904 19,http://www.brk-schweinfurt.de,info@brk-schweinfurt.de
+355,Kreisverband Schwerin e.V.,Amtstraße 29 A/B,19055, Schwerin,0385  555730 0,0385  555730 20,http://www.drk-sn.de,info@drk-sn.de
+356,Kreisverband Sebnitz e.V.,Schillerstraße 44 a,01855, Sebnitz,035971 747 0,035971 747 18,http://www.drk-sebnitz.de,info@drk-sebnitz.de
+357,Kreisverband Segeberg e.V.,Kurhausstr. 57,23795, Bad Segeberg,04551 992 0,04551 992 6254,http://www.drk-segeberg.de,info@drk-segeberg.de
+358,Kreisverband Siegen-Wittgenstein e.V.,Bismarckstraße 68,57076, Siegen,0271 33716 0,0271 33716 66,http://www.drk-siegen-wittgenstein.de,info@drk-siegen-wittgenstein.de
+359,Kreisverband Sigmaringen e.V.,Hohenzollernstr. 6,72488, Sigmaringen,07571 7423 0,07571 7423 28,http://www.drk-sigmaringen.de,post@drk-sigmaringen.de
+360,Kreisverband Solingen e.V.,Burgstr. 105,42655, Solingen,0212 2803 0,0212 2803 55,http://www.drk-solingen.de,seminare@drk-solingen.de
+361,Kreisverband Soltau e.V.,Harburger Str. 77,29614, Soltau,05191 18066,05191 13924,http://www.drk-kvsoltau.de,info@drk-kvsoltau.de
+362,Kreisverband Sömmerda/Artern e.V.,Rohrborner Weg 13,99610, Sömmerda,03634 688110,03634 688134,http://www.drk-sda.de,info@drk-sda.de
+363,Kreisverband Spandau e.V.,Galenstr. 29,13597, Berlin,030 353937 0,030 35393728,www.drk-spandau.de,info@drk-spandau.de
+364,Kreisverband Speyer e.V.,Karl-Leiling-Allee 5,67346, Speyer,06232 6002 0,06232 6002 19,http://www.drk-speyer.de/,info@drk-speyer.de
+365,Kreisverband St. Ingbert e.V.,Reinhold-Becker-Str. 2,66386, St. Ingbert,06894 100 0,06894 100 111,http://www.kv-st-ingbert.drk.de/,info@kv-st-ingbert.drk.de
+366,Kreisverband St. Wendel e.V.,Essener Str. 14,66606, St. Wendel,06851 93968 0,06851 93968 199,http://www.drkwnd.de,info@drkwnd.de
+367,Kreisverband Stade e.V.,Am Hofacker 14,21682, Stade,04141 80330,04141 8033 333,http://www.mehr-als-blaulicht.de/,info@kv-stade.drk.de
+368,Kreisverband Städteregion Aachen e.V,Henry-Dunant-Platz 1,52146, Würselen,0049 2405 6039100,0049 2405 6039200,http://www.drk-aachen.de,info@drk-aachen.de
+369,Kreisverband Staßfurt-Aschersleben e.V.,Bodestr. 35,39418, Staßfurt,03925 3721 0,03925 3721 32,http://www.drk-stassfurt-aschersleben.de,info@drk-stassfurt-aschersleben.de
+370,Kreisverband Steinburg e.V.,Bahnhofstr. 11,25524, Itzehoe,04821 67900,04821 679029,http://www.drk-kv-steinburg.de,info@drk-steinburg.de
+371,Kreisverband Steinfurt e.V.,Europaring 3,48565, Steinfurt,02551 93890,02551 938999,http://www.drk-kv-steinfurt.de,info@drk-kv-steinfurt.de
+372,Kreisverband Stollberg e.V.,Chemnitzer Str. 21,09366, Stollberg,037296 3411,037296 12000,http://www.drk-stollberg.de/,info@drk-stollberg.de
+373,Kreisverband Stormarn e.V.,Grabauer Str. 17,23843, Bad Oldesloe,04531 17810,04531 178122,http://www.drk-stormarn.de/,info@drk-stormarn.de
+374,Kreisverband Straubing-Bogen,Siemensstr. 11 a,94315, Straubing,09421 9952 0,09421 9952 1005,http://www.kvstraubing.brk.de,info@kvstraubing.brk.de
+375,Kreisverband Stuttgart e.V.,Reitzensteinstr. 9,70190, Stuttgart,0711 2808 0,0711 2808 1110,http://www.drk-stuttgart.de,geschaeftsstelle@drk-stuttgart.de
+376,Kreisverband Südfranken,Rothenburger Str. 33,91781, Weißenburg,09141 8699 0,09141 8699 26,http://www.brk-suedfranken.de/,service-team@brk-suedfranken.de
+377,Kreisverband Südliche Weinstraße e.V.,Haardtstraße 4 a,76829, Landau,06341 140 0,06341 140 102,https://www.KV-SUEW.drk.de,Info@kv-SUEW.drk.de
+378,Kreisverband Südwestpfalz e.V.,22er-Str. 66,66482, Zweibrücken,06332 3735,06332 41303,http://www.drk-suedwestpfalz.de,info@kv-swp.drk.de
+379,Kreisverband Suhl e.V.,Bahnhofstr. 13,98527, Suhl,03681 79290,03681 7929299,http://www.drk-suhl.de,info@drk-suhl.de
+380,Kreisverband Tauberbischofsheim e.V.,Mergentheimer Str. 30,97941, Tauberbischofsheim,0 93 41  92 05   0,0 93 41  92 05   99,http://www.drk-tbb.de,info@drk-tbb.de
+381,Kreisverband Tecklenburger Land e.V.,Groner Allee 27,49477, Ibbenbüren,05451 5902 0,05451 5902 29,http://www.drk-te.de,info@drk-te.de
+382,Kreisverband Testinstanz FMV,Testweg 1,99999, Testdorf,,,,
+383,Kreisverband Testkreisverband,Musterbach,99999, Musterbach,,,,
+384,Kreisverband Tirschenreuth,Egerstraße 21,95643, Tirschenreuth,09631 2222,09631 7075 27,http://www.kvtirschenreuth.brk.de,info@kvtirschenreuth.brk.de
+385,Kreisverband Torgau-Oschatz e.V.,Reithausstrasse 2,04758, Oschatz,03435 90200,03435 902020,http://www.drk-to.de,info@drk-to.de
+386,Kreisverband Traunstein,Gewerbepark Kaserne 13,83278, Traunstein,0861 98973 0,0861 98973 33,https://www.brk-traunstein.de,info@kvtraunstein.brk.de
+387,Kreisverband Trier-Saarburg e.V.,Brunostraße 25,54329, Konz,06501 9292 0,06501 9292 532,http://www.kv-trier-saarburg.drk.de,info@kv-trier-saarburg.drk.de
+388,Kreisverband Tübingen e.V.,Steinlachwasen 26,72072, Tübingen,07071 7000   0,07071 7000   43,http://www.drk-tuebingen.de,info@drk-tuebingen.de
+389,Kreisverband Tuttlingen e.V.,Eckener Str. 1,78532, Tuttlingen,07461 17870,07461 178718,https://www.drk-tut.de/,info@drk-tut.de
+390,Kreisverband Uckermark Ost e.V.,August-Bebel-Str. 13 a,16303, Schwedt,03332 2073 0,03332 2073 21,http://www.drk-um-ost.de,Kreisgeschaeftsstelle@DRK-UM-OST.de
+391,Kreisverband Uckermark West/Oberbarnim e.V.,Puschkinstraße 15,17268, Templin,03987 700610,03987 700640,http://www.drk-umw-ob.de,stoll@kv-uckermark-west.drk.de
+392,Kreisverband Uecker-Randow e.V.,Oskar-Picht-Str. 60,17309, Pasewalk,03973 43840,03973 438422,http://www.uecker-randow.drk.de,info@drk-uer.de
+393,Kreisverband Uelzen e.V.,Ripdorfer Straße 21,29525, Uelzen,0581 9032 0,0581 9032 130,http://www.drk-uelzen.de,kreisverband@drk-uelzen.de
+394,Kreisverband Ulm e.V.,Frauenstr. 125,89073, Ulm,0731  14 44  0,0731  14 44  50,https://www.drk-ulm.de,info@drk-ulm.de
+395,Kreisverband Unna e.V.,Mozartstraße 34,59423, Unna,02303 25453 0,02303 25453 71,http://www.drk-kv-unna.de,info@drk-kv-unna.de
+396,Kreisverband Unterallgäu,Donaustraße 5 - 7,87700, Memmingen,08331 9531 0,08331 9531 20,http://www.kvunterallgaeu.brk.de,info@kvunterallgaeu.brk.de
+397,Kreisverband Varel Friesische Wehde e.V.,Gaststr. 11,26316, Varel,04451 96685 0,04451 96685 7,http://www.drk-varel.de,drk-varel@ewetel.net
+398,Kreisverband Vechta e.V.,Buchholzstr. 4,49377, Vechta,04441 9510140,04441 81937,http://www.drk-vechta.de,info@drk-vechta.de
+399,Kreisverband Verden e.V.,Lindhooper Str. 20/ 22,27283, Verden,04231 92450,,http://www.drkkv-verden.de/,info@rotkreuz-verden.de
+400,Kreisverband Viersen e.V.,Hofstr. 52,41747, Viersen,02162 9303 0,02162 9303 99,https://www.drk-kv-viersen.de,info@drk-kv-viersen.de
+401,Kreisverband Villingen-Schwenningen e.V.,Albert-Schweitzer-Strasse 16,78052, Villingen-Schwenningen,07721 8988 0,07721 8988 44,http://www.drk-vs.de,mail@drk-vs.de
+402,Kreisverband Vogtland/ Reichenbach e.V.,Humboldtstraße 45,08468, Reichenbach,03765325900,037653259095,http://www.drk-reichenbach.de,geschaeftsstelle@drk-reichenbach.de
+403,Kreisverband Vorderpfalz e.V.,August-Heller-Str.12,67065, Ludwigshafen,0621 5703 0,0621 571359,https://www.kv-vorderpfalz.drk.de/,info@kv-vorderpfalz.drk.de
+404,Kreisverband Vulkaneifel e.V.,Leopoldstr. 34,54550, Daun,06592 9500 0,06592 9500 95,http://www.vulkaneifel.drk.de,info@vulkaneifel.drk.de
+405,Kreisverband Waldshut e.V.,Fuller Str. 2,79761, Waldshut-Tiengen,07751 8735 0,07751 8735 38,https://www.drk-kv-waldshut.de,info@drk-kv-wt.de
+406,Kreisverband Wangen e.V.,Spinnerei 1,88239, Wangen,07522 78925-0,07522 78925-99,http://www.drk-kv-wangen.de,info@drk-kv-wangen.de
+407,Kreisverband Wanzleben e.V.,Lindenpromenade 14,39164, Wanzleben-Börde,039209 6390,039209 63936,https://www.drk-wanzleben.de/startseite-kv.html,info@drk-wanzleben.de
+408,Kreisverband Warburg e.V.,Landfurt 67,34414, Warburg,05641 2454,05641 3454,http://www.drk-warburg.de,info@drk-warburg.de
+409,Kreisverband Warendorf-Beckum e.V.,Gottfried-Polysius-Str. 5,59269, Beckum,02525 9327 0,02525 932723,http://www.drk-kv-waf.de,info@drk-kv-waf.de
+410,Kreisverband Wattenscheid e.V.,Voedestr. 53,44866, Bochum,02327 87017,02327 85457,https://www.drk-wattenscheid.de/index.html,info@drk-wattenscheid.de
+411,Kreisverband Wedding / Prenzlauer Berg e. V.,Neue Hochstraße 21,13347, Berlin,030 6003005500,,http://www.drk-wedpre.de,info@drk-wedpre.de
+412,Kreisverband Weiden und Neustadt /WN,Ulrich-Schönberger-Straße 11,92637, Weiden,0961 39002 0,0961 39002 27,https://www.kvweiden.brk.de,info@kvweiden.brk.de
+413,Kreisverband Weilheim-Schongau,Johannes-Damrich-Str. 5,82362, Weilheim,0881 92 90 0,0881 92 90 80,http://www.kvweilheim-schongau.brk.de,info@kvwm-sog.brk.de
+414,Kreisverband Weimar e.V.,Rollplatz 10,99423, Weimar,03643 8602 300,03643 8602 399,http://www.drk-weimar.de,info@drk-weimar.de
+415,Kreisverband Weißenfels e.V.,Leopold-Kell-Str. 27,06667, Weißenfels,03443 3937 0,03443 393726,http://www.drkweissenfels.de,drk@drkweissenfels.de
+416,Kreisverband Weißwasser e.V.,Berliner Straße 23,02943, Weißwasser,03576 247030,03576 247034,http://www.drk-weisswasser.de,info@drk-weisswasser.de
+417,Kreisverband Wernigerode e.V.,Lindenallee 25,38855, Wernigerode,03943 553460,03943 553479,http://www.drkwernigerode.de/,info@drk-wernigerode.de
+418,Kreisverband Weserbergland e.V.,Kaiserstraße 34,31785, Hameln,05151 4012 0,05151 4012 52,https://www.drk-weserbergland.de,info@drk-weserbergland.de
+419,Kreisverband Wesermarsch e.V.,Hafenstr. 47 a,26954, Nordenham,04731 26919 0,04731 26919 20,https://www.drk-wesermarsch.de,kreisverband@drk-wesermarsch.de
+420,Kreisverband Wesermünde e.V.,Zum Feldkamp 9,27619, Schiffdorf,04706 189 0,04706 18951,http://www.drk-wem.de,email@drk-wem.de
+421,Kreisverband Westerwald e.V.,Langenhahner Str. 1,56457, Westerburg,02663 9427 0,02663 9427 30,http://www.kv-westerwald.drk.de,info@kv-westerwald.drk.de
+422,Kreisverband Wetzlar e.V.,Hörnsheimer Eck 21,35578, Wetzlar,06441 9764 0,06441 9764 16,http://www.drk-wetzlar.de,info@drk-wetzlar.de
+423,Kreisverband Wiesbaden e.V.,Flachstr. 6,65197, Wiesbaden, 49 611 4687 0, 49 611 4687 110,http://www.drk-wiesbaden.de,info@drk-wiesbaden.de
+424,Kreisverband Wilhelmshaven e.V.,Güterstraße 30,26389, Wilhelmshaven,04421 9102 0,04421 910249,http://www.drk-whv.de,info@drk-whv.de
+425,Kreisverband Witten e.V.,Annenstr. 9,58453, Witten,02302 910160,02302 91016109,http://www.drk-witten.de,info@drk-witten.de
+426,Kreisverband Wittenberg e.V.,Am Alten Bahnhof 11,06886, Lutherstadt Wittenberg,03491 4650,03491 402493,http://www.drk-wittenberg.de/,kreisverband@drk-wittenberg.de
+427,Kreisverband Wittlage e.V.,Lindenstraße 193,49152, Bad Essen,054724039881,05472 4039899,http://www.drk-wittlage.de,kreisverband@drk-wittlage.de
+428,Kreisverband Wittmund e.V.,Mühlenstraße 27A,26409, Wittmund,04462 5414,04462 23510,http://www.drk-wittmund.de/,info@DRK-wittmund.de
+429,Kreisverband Witzenhausen e.V.,Im Kleinen Felde 18-20,37213, Witzenhausen,05542 9323100,05542 9323 132,http://www.drk-wiz.de,info@drk-wiz.de
+430,Kreisverband Wolfach e.V.,Hauptstr. 82 c,77756, Hausach,07831 9355 0,07831 9355 55,http://www.kv-wolfach.drk.de,info@kv-wolfach.drk.de
+431,Kreisverband Wolfenbüttel e.V.,Dietrich-Bonhoeffer-Str. 8,38300, Wolfenbüttel,05331 9750 200,05331 9750 201,http://www.drk-kv-wf.de,info@drk-kv-wf.de
+432,Kreisverband Wolfsburg e.V.,Walter-Flex-Weg 10,38446, Wolfsburg,05361 8262 0,05361 52051,https://www.drk-wob.de/,info@drk-wolfsburg.de
+433,Kreisverband Worms e.V.,Eulenburgstr. 2,67547, Worms,06241 4007 0,06241 4007780,http://www.drk-worms.de,kreisverband@drk-worms.de
+434,Kreisverband Wunsiedel i. F.,Industrieallee 2,95615, Marktredwitz,09231 9626 0,09231 9626 28,http://www.kvwunsiedel.brk.de,info@kvwunsiedel.brk.de
+435,Kreisverband Wuppertal e.V.,Humboldtstr. 20,42283, Wuppertal,0202 89060,0202 887074,http://www.drk-wuppertal.de,info@drk-wuppertal.de
+436,Kreisverband Würzburg,Zeppelinstr. 1-3,97074, Würzburg,0931 80008 0,0931 80008 55,http://www.kvwuerzburg.brk.de,info@kvwuerzburg.brk.de
+437,Kreisverband Zittau e.V.,Äußere Weberstr. 84,02763, Zittau,03583 5779 0,03583 5779 29,http://www.drk-zittau.de/,sekretariat@kv-zittau.drk.de
+438,Kreisverband Zollernalb e.V.,Henry-Dunant-Str. 1-5,72336, Balingen,07433 9099 0,07433 9099 50,http://www.drk-zollernalb.de,info@drk-zollernalb.de
+439,Kreisverband Zwickau e.V.,Max-Pechstein-Straße 11,08056, Zwickau,0375 81860 0,0375 81860 19,http://www.drkzwickau.de,info@drkzwickau.de
+440,Kreisverband Zwickauer Land e.V.,Leipziger Str. 76,08451, Crimmitschau,03762 9558 0,03762 9558 35,https://www.drk-zwickauer-land.de,info@drk-zwickauer-land.de
