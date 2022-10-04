@@ -10,6 +10,7 @@ class Twitter_user(models.Model):
     def __str__(self):
         return self.user_name
 
+
 class Twitter_user_stats(models.Model):
 
     user_id = models.ForeignKey(Twitter_user, on_delete=models.CASCADE)
@@ -20,5 +21,8 @@ class Twitter_user_stats(models.Model):
     followers = models.IntegerField(default=0)
     timestamp = models.DateTimeField(default=timezone.now)
 
+    class Meta:
+        unique_together = ('timestamp', 'user_id')
+
     def __str__(self):
-        return self.tweets
+        return self.followers
