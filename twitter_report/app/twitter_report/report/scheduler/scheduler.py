@@ -61,8 +61,8 @@ def start():
         {'apscheduler.job_defaults.coalesce': 'true'})
     scheduler.add_jobstore(DjangoJobStore(), "default")
     # run this job every 24 hours
-    scheduler.add_job(update_user_stats, 'interval',
-                      hours=24, name='update_stats', jobstore='default')
+    scheduler.add_job(update_user_stats, 'cron',
+                      hour=1, minute=19, name='update_stats', jobstore='default')
     register_events(scheduler)
     scheduler.start()
     print("Scheduler started...", file=sys.stdout)
