@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django.views.generic import ListView
+from django.views.generic import ListView, DetailView
 from report.models import Twitter_user
 from report.models import Twitter_user_stats
 
@@ -13,3 +13,9 @@ class TwitterUserListView(ListView):
         context = super().get_context_data(**kwargs)
         context["user_stats"] = Twitter_user_stats.objects.all()
         return context
+
+
+class TwitterUserStatsView(DetailView):
+
+    model = Twitter_user
+    template_name = 'report/detail.html'

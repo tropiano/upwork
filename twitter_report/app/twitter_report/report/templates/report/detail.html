@@ -1,0 +1,35 @@
+{% extends "report/base.html" %} {% block content %}
+<ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link" href="#!">Stats for {{twitter_user.user_name}}</a>
+  </li>
+</ul>
+<div class="container">
+  <br />
+
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Tweets</th>
+        <th>Followers</th>
+        <th>Retweets</th>
+        <th>Replies</th>
+        <th>Likes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for stat in twitter_user.twitter_user_stats_set.all %}
+      <tr>
+        <th scope="row">{{stat.timestamp|date:"d M Y"}}</th>
+        <td>{{stat.tweets}}</td>
+        <td>{{stat.followers}}</td>
+        <td>{{stat.retweets}}</td>
+        <td>{{stat.replies}}</td>
+        <td>{{stat.likes}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endblock content%}
+</div>

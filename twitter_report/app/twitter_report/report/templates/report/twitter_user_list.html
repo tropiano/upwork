@@ -7,6 +7,7 @@
     {% for usr in object_list %}
     <div class="card shadow">
       <div class="card-body">
+        <a href="{% url 'user_stats' usr.pk %}">
         <h4 class="card-title">{{ usr.user_name }}</h4>
         <h6 class="card-subtitle mb-2 text-muted">
           {{ usr.twitter_user_stats_set.last.followers }} followers
